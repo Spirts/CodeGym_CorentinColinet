@@ -1,0 +1,13 @@
+taskKey="fr.codegym.task.task04.task0406"\n\nRegistre de noms
+
+Finis d'écrire le code de la méthode definirNom pour qu'elle définisse la valeur de la variable private String nomComplet sur la valeur de la variable String nomComplet locale.
+
+
+Requirements:
+1.	La classe Chat doit contenir une seule variable, nomComplet.
+2.	La variable nomComplet doit &ecirc;tre de type String et avoir un modificateur d&#39;acc&egrave;s priv&eacute;.
+3.	La classe Chat doit n&#39;avoir que deux m&eacute;thodes : definirNom et main.
+4.	La m&eacute;thode definirNom doit avoir une variable locale, nomComplet.
+5.	La m&eacute;thode definirNom de la classe Chat doit d&eacute;finir la valeur de la variable globale private String nomComplet sur la variable nomComplet locale.
+
+
